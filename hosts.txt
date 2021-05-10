@@ -1,11 +1,13 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# [狗日的国产垃圾]
+# [烦死人了]
 127.0.0.1 snssdk.com
 127.0.0.1 ixigua.com
 127.0.0.1 toutiao.com
 127.0.0.1 douyin.com
+127.0.0.1 douyin.com
+127.0.0.1 vreoij.cn
 
 # [General]
 127.0.0.1 lb.usemaxserver.de
